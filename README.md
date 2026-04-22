@@ -9,18 +9,18 @@ For learning and experimentation
 To understand basic game loops and event handling
 To gain hands-on experience with Python libraries
 
-###Technologies Used
+**Technologies Used**
 Pygame – for game development and rendering graphics
 Random – to generate random food positions
 Time – to control game speed and delays
 
-###Game Features
+**Game Features**
 Classic snake movement mechanics
 Randomly generated food for the snake
 Score increases as the snake eats food
 Game over when the snake collides with itself or boundaries
 
-###How to Run
+**How to Run**
 Install Python (if not already installed)
 
 Install Pygame:/
@@ -35,16 +35,16 @@ Run the game:/
 
 python main.py
 
-###Deployment
+**Deployment**
 
 This project is lightweight and can be easily run on any system with Python and Pygame installed.
 
-###Future Improvements
+**Future Improvements**
 Add levels or increasing difficulty
 Implement high score tracking
 Improve UI/UX design
 Add sound effects
 
-###Contributing
+**Contributing**
 
 This is a learning project, but suggestions and improvements are welcome.
