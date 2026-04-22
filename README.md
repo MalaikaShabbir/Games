@@ -1,7 +1,7 @@
 # Snake Game (Python)
 A simple Snake Game built using Python as a mini project to practice game development concepts and get familiar with external libraries like Pygame.
 
-###Purpose
+**Purpose**
 
 This project was created:
 
