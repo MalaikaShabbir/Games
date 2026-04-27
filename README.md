@@ -23,15 +23,15 @@ Game over when the snake collides with itself or boundaries
 **How to Run**
 Install Python (if not already installed)
 
-Install Pygame:/
+Install Pygame:
 
 pip install pygame
 
-Clone this repository:/
+Clone this repository:
 
 git clone https://github.com/your-username/snake-game.git
 
-Run the game:/
+Run the game:
 
 python main.py
 
